@@ -1,2 +1,2 @@
-# jamesshaw.gihub.io
+# jamesshaw.github.io
 MDN Test Site
